@@ -6,6 +6,7 @@ int main() {
     double num2;
     char op;
     bool loop = true;
+
     while (loop == true) {
         cout << "enter the first number: ";
         cin >> num1;
